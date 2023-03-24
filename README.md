@@ -1,14 +1,14 @@
 # CG6
 Skin Cancer Detection using ResNet
 
-TEAM MEMBERS
+### TEAM MEMBERS
 
-1.M.Harshini Rama Thulasi
-2.T.BhagyaLakshmi
-3.M.Sowjanya
-4.Sd.Rizwana
+1. M.Harshini Rama Thulasi
+2. T.BhagyaLakshmi
+3. M.Sowjanya
+4. Sd.Rizwana
 
-INTRODUCTION
+### INTRODUCTION
 
 Skin cancer detection is one of the major problems across the world. There is a
 drastic increase in the rate of deaths due to lack of knowledge on the symptoms and their
@@ -20,5 +20,5 @@ very often. The two main types of skin cancer that affect humans are Melanoma an
 However, Melanoma is the most affecting and dangerous type of skin cancer. The World
 Health Organization also estimated high cases of Melanoma across the world.
 
-Data set link:
+### Data set link:
 https://www.kaggle.com/code/fanconic/starter-skin-cancer-malignant-vs-benign
